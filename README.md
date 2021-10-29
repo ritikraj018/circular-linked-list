@@ -112,5 +112,4 @@ tmp1=start;
 start=tmp1->next;
 tmp->next=start;
 free(tmp1);
-
 }
